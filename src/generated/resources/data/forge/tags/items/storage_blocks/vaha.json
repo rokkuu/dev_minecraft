@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "vahathedag:vaha_block",
+    "#forge:ores/vaha"
+  ]
+}
